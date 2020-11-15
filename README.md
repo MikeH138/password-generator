@@ -18,7 +18,7 @@ The user can choose the below criteria for their password:
 
 ## Usage
 
-To use the application, simply enter the number of characters you want to have in your password by typing it in, or using the up/down arrows on the right of the textbox.
+To use the application, simply enter the number of characters you want to have in your password by typing it in, clicking the up/down arrows on the right side of the textbox, or pressing the up and down arrows on your keyboard to go up or down 1 number.
 
 Then, verify the criteria you desire for your password.
 
@@ -36,7 +36,7 @@ Try out the finished application here:
 
 [Password Generator](https://mikeh138.github.io/password-generator/)
 
-![Screenshot of Password Generator](./Assets/images/password_generator_screenshot)
+![Screenshot of Password Generator](./Assets/images/password_generator_screenshot.jpg)
 
 ## Code of Conduct
 
