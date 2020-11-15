@@ -24,6 +24,28 @@
             aria-label="Generated Password"
           ></textarea>
         </div>
+        <div class="pass-options">
+          <div class="option">
+            <label for="length">Password length (8 to 128 characters):</label>
+            <input type="number" id="length" min="8" max="128" value="16">
+          </div>
+          <div class="option">
+            <label for="uppercase">Use uppercase letters?</label>
+            <input type="checkbox" id="uppercase" name="uppercase" checked>
+          </div>
+          <div class="option">
+            <label for="lowercase">Use lowercase letters?</label>
+            <input type="checkbox" id="lowercase" name="lowercase" checked>
+          </div>
+          <div class="option">
+            <label for="numbers">Use numbers?</label>
+            <input type="checkbox" id="numbers" name="numbers" checked>
+          </div>
+          <div class="option">
+            <label for="special">Use special characters?</label>
+            <input type="checkbox" id="special" name="special" checked>
+          </div>
+        </div>
         <div class="card-footer">
           <button id="generate" class="btn">Generate Password</button>
         </div>

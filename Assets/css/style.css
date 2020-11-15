@@ -54,6 +54,21 @@ header {
   min-height: 100px;
 }
 
+.pass-options {
+  width: 100%;
+}
+
+.option {
+  font-weight: 600;
+}
+
+.option input[type="number"],
+.option input[type="checkbox"] {
+  float: right;
+  clear: both;
+}
+
+
 .card-footer {
   text-align: center;
 }
