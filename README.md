@@ -36,7 +36,7 @@ Try out the finished application here:
 
 [Password Generator](https://mikeh138.github.io/password-generator/)
 
-![Screenshot of Password Generator](./Assets/images/password_generator_screenshot.jpg)
+![Screenshot of Password Generator](./assets/images/password_generator_screenshot.jpg)
 
 ## Code of Conduct
 
